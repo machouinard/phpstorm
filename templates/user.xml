@@ -9,4 +9,7 @@
       <option name="PHP Statement" value="true" />
     </context>
   </template>
+  <template name="todoa" value="// TODO: $DATE$: $END$" description="Todo with date" toReformat="true" toShortenFQNames="true">
+    <variable name="DATE" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
 </templateSet>
