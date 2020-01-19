@@ -1,0 +1,12 @@
+<templateSet group="user">
+  <template name="plgh" value="/**&#10; * Plugin Name: $PluginName$&#10; * Plugin URI:  $PluginURI$&#10; * Description: $PluginDescription$&#10; * Version: 1.0.0&#10; * Author: Mark Chouinard&#10; * Author URI: https://chouinard.me&#10; * Text Domain: $PluginTextDomain$&#10; * License: GNU General Public License v2 or later&#10; * License URI: http://www.gnu.org/licenses/gpl-2.0.html&#10; */" description="Plugin file header" toReformat="true" toShortenFQNames="true">
+    <variable name="PluginName" expression="" defaultValue="&quot;PluginName&quot;" alwaysStopAt="true" />
+    <variable name="PluginURI" expression="lowercaseAndDash($PluginName$)" defaultValue="" alwaysStopAt="true" />
+    <variable name="PluginDescription" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PluginTextDomain" expression="lowercaseAndDash($PluginName$)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Expression" value="true" />
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+</templateSet>

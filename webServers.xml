@@ -1,0 +1,216 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c7a24cfe-87ae-4869-b953-140331a1b48a" name="Chouinard.me" url="http://chouinard.me">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="61b6cc66-60c7-4f52-b65b-1a0834e2cdf9" name="Gardens" url="http://gardens.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="c406035b-a8f2-4494-ad58-aafc7c8321c2" name="Food" url="http://food.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="57d1cfbd-fff1-45fd-bc78-325e4ae08097" name="Data.PV" url="http://data.pv">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="b1902b59-492e-4922-a4e3-e1da0eb86fa7" name="DigitalOcean" url="http://machouinard.com">
+        <fileTransfer host="ssh.chouinard.me" port="22" privateKey="$USER_HOME$/.ssh/do_rsa" rootFolder="/var/www/" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="76323f2a-0b5a-4194-834c-2c0f0343341c" name="Stable" url="http://stable.wordpress.pv/wordpress">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="f4c368c1-c614-478d-817a-948f230e18eb" name="rentalinfo.pv" url="http://rentalinfo.pv">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="89d7dbe5-dee7-4ef0-b41c-7e0399348eb9" name="linda.dev" url="http://linda.dev/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="44ebc351-9085-4c2f-9995-53820e344455" name="ghost.dev" url="http://ghost.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="b2aedf44-19d3-4a64-8b88-2c0f5510814d" name="URI.dev" url="https://uri.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="272c6bc4-b531-4d31-8a34-d9d9b7fdbede" name="SJCLT1" url="http://sjclt1.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="d140d41b-c40c-4c2f-96f5-9a524473ef86" name="SJCLT" url="https://sjclt.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="62acb0b9-78e4-4a73-809a-98d7e954ca51" name="Hotzot" url="http://hotzot.biz">
+        <fileTransfer host="hotzot.biz" port="22" privateKey="$USER_HOME$/.ssh/hotshot_rsa" rootFolder="/home/micpet61" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="a201cd60-3f47-4aac-926c-c29b7056be39" name="SacIt" url="http://sacit.dev">
+        <fileTransfer host="sacitcentral.com" port="22" rootFolder="/home/e32741368697996/html" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="e1c5eb40-b462-4639-9c6e-95490eee9ae6" name="local.wordpress.test" url="http://local.wordpress.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="f8bd27f0-b50a-48c4-a477-92e66245fbca" name="Ubuntu" url="http://mark.home.mac">
+        <fileTransfer host="192.168.1.25" port="22" rootFolder="/var/www/mark.home.mac" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="c0be500b-d362-449e-9deb-1c05b7cdc34e" name="Ecma2016" url="http://ecma2016.dev.cc">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="9324fa8f-1d77-4042-8d68-b3cb93fc12a0" name="Develop LOCAL" url="https://develop.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="4961112a-7905-4a79-918d-1c89bbb0342b" name="URI Local" url="http://uri.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="0a2c3c93-2319-401d-8300-0305f6c3847c" name="ProvTeam" url="https://provteam.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="5bb6d722-4e06-4128-bd13-a8f10cda18df" name="SacIt Local" url="https://sacit.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="1b06d271-cc8a-41bb-a2ad-573d48f7eef0" name="JavaScript Sandbox Local" url="http://js.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="c5ffce3b-8679-419a-abe2-315bb4d96533" name="SJCLT Local" url="https://sjclt.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="cd333bdd-7822-47e9-bb88-06864bdc0bd8" name="WBA Local" url="http://wba.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="d227aea8-3589-4f0f-9870-0d4f8ea75926" name="Lynda Local" url="https://lynda.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="b98eff26-62f1-43b1-b9cd-367b841a2470" name="Lynda Local 2" url="https://lynda.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="8310a3bb-aba0-430c-9c30-932d7b0d690c" name="machouinard.com" url="https://machouinard.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="260def27-b6b2-42aa-b1e5-3e24210d05c7" name="Gardens (1)" url="https://gardens.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="07a483a4-0899-4439-af06-ae580b7271f9" name="five" url="https://five.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="ce4550a6-f650-477c-9c50-17ad670a7033" name="WP" url="https://wp.local/build">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="6acafac9-158c-477b-b8b9-41395eb70c62" name="Udemy" url="https://udemy.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="701df477-d53b-48fc-80e1-1cf86bc58695" name="Udemy (1)" url="https://udemy.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="40f6a00f-8545-4006-9500-0d79097078f2" name="SacIT Redux" url="https://sacit-redux.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="f6f0f669-6e65-4b61-9b08-10c98255a96a" name="Fresh Local" url="https://fresh.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="1b57cc07-a247-4858-87ba-358ba7acdbc4" name="WPE MCDC" url="https://machouinard.wpengine.com.test/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="35a435b9-0d1a-4e18-9070-0af11a431486" name="NinetyNinety" url="https://ninety.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="1033214c-1e56-4083-84f8-a2ef9a862e3f" name="Fresh ACF Signature" url="https://fresh.local">
+        <fileTransfer port="0" mountedRoot="$USER_HOME$/Local Sites/fresh/app/public" accessType="MOUNT" />
+      </webServer>
+      <webServer id="7ea50c62-f706-43a6-bd65-9c828a47c1c9" name="Sandbox Local" url="https://sandbox.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="9f3f23b6-52b3-4c5b-ac0c-73e994522e25" name="BuddyTow" url="https://buddytow.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="00ba8c1a-0a57-43aa-a5c1-c6a90026fee7" name="Step 2 Men's Group" url="https://step2.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="42994bbc-4fdc-41e4-bcde-7da15bfdb283" name="Tahoe Ski World" url="https://tsw.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="73f5faad-58ad-413a-a652-950ebd1a00e1" name="LambdaPhx" url="https://lambda.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="0a4d71cb-1bc3-4d75-b2fe-dc85cb04b80a" name="Divi" url="https://divi.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="34e9eb87-811e-4742-ac7e-4584c143bc2d" name="URI2" url="https://uri2.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="b3dd6ca9-e404-41d9-a8b9-8268c249942f" name="Store" url="https://store.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="ae03a181-6a08-4403-a5a1-b9f14a93ac62" name="TasteToutShout" url="https://tts.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="93941873-ea64-4d32-a50b-f09bf1b0f184" name="Chouinard ssl" url="https://chouinard.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="bdac2ee7-9363-4d9d-bd66-3854167c283c" name="React" url="https://react.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="2bfcdad5-8c65-4fad-92fb-e2b6e7b63856" name="LambdaWPE" url="http://lambdaphx.wpengine.com.test/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="fa423cc8-24fd-4674-a277-cc1447d4ddb4" name="WP Core" url="https://core.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="ce4e15e7-4d7e-460d-a15d-837d80ffab2e" name="Trunk" url="https://trunk.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="52e64d4e-c01d-4090-bdac-9c78c7985f33" name="WP Dev SVN" url="http://localhost:8889">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="0af9c472-23fb-436d-a868-a0d3f08e9046" name="Gatsby Test" url="http://localhost:8000/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="48f08a96-7048-48d2-bc0e-0d87cd79cfde" name="PHP" url="https://php.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="eff03464-792c-486b-9967-eb184b8315da" name="Chouinard.Dev" url="http://ftp.chouinard.dev">
+        <fileTransfer host="ftp.chouinard.dev" port="22" privateKey="$USER_HOME$/.ssh/do_rsa" rootFolder="/var/www" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="2d6e92c1-11c1-4aeb-bdc2-60aaab50508c" name="Property" url="https://property.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="ac09e556-c27b-4f4f-9bc2-d07630eefb47" name="Laravel" url="https://laravel.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="98ff4a83-60ae-4190-9ac0-db96fabc59fc" name="Project1" url="http://project1.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="f9685595-5a3b-49f5-93a4-01a231c4a08d" name="Hello" url="https://hello.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="5bfcb132-4513-4cac-9100-fdbae10f1912" name="Laravel - Ubuntu2" url="http://192.168.1.118">
+        <fileTransfer host="192.168.1.118" port="22" rootFolder="/var/www/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="511d8aba-b142-4593-add3-73aeaa59f6f9" name="O'Connell Ranch" url="https://oconnell-ranch.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
