@@ -1,9 +1,0 @@
-<application>
-  <component name="NotificationConfiguration">
-    <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
-    <notification groupId="Indexing" />
-    <notification groupId="Linter Language Service" shouldReadAloud="true" />
-    <notification groupId="PHP External Quality Tools" shouldLog="false" />
-    <notification groupId="Webpack" />
-  </component>
-</application>
