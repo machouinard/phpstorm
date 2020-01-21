@@ -211,6 +211,9 @@
       <webServer id="511d8aba-b142-4593-add3-73aeaa59f6f9" name="O'Connell Ranch" url="https://oconnell-ranch.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="741864c5-daf2-4204-a2a5-ffe094396ab4" name="Parr" url="https://parr.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
