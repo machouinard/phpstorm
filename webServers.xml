@@ -214,6 +214,9 @@
       <webServer id="741864c5-daf2-4204-a2a5-ffe094396ab4" name="Parr" url="https://parr.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="0d8f9ed0-7133-4ed2-a9d4-1c91e105eca3" name="Plugins Beta" url="https://plugins.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
