@@ -220,6 +220,9 @@
       <webServer id="7ebb4109-6763-4189-a8db-bb050e9a1d8d" name="Step2 Local Beta" url="https://step2.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="241fd149-801f-4d42-bfbb-125a871e2d14" name="SacIT Beta" url="https://sacit.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
