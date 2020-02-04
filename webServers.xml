@@ -223,6 +223,9 @@
       <webServer id="241fd149-801f-4d42-bfbb-125a871e2d14" name="SacIT Beta" url="https://sacit.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="cbbade3b-2a9d-4ea4-8932-37b5aad2dbda" name="JS Beta" url="https://js.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
