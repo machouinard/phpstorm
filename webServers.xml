@@ -1,6 +1,14 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="b1902b59-492e-4922-a4e3-e1da0eb86fa7" name="DigitalOcean" url="https://pool.chouinard.me">
+        <fileTransfer host="ssh.chouinard.me" port="22" privateKey="$USER_HOME$/.ssh/do_rsa" rootFolder="/var/www/" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
       <webServer id="c7a24cfe-87ae-4869-b953-140331a1b48a" name="Chouinard.me" url="http://chouinard.me">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
@@ -12,14 +20,6 @@
       </webServer>
       <webServer id="57d1cfbd-fff1-45fd-bc78-325e4ae08097" name="Data.PV" url="http://data.pv">
         <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
-      <webServer id="b1902b59-492e-4922-a4e3-e1da0eb86fa7" name="DigitalOcean" url="http://machouinard.com">
-        <fileTransfer host="ssh.chouinard.me" port="22" privateKey="$USER_HOME$/.ssh/do_rsa" rootFolder="/var/www/" accessType="SFTP" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
       </webServer>
       <webServer id="76323f2a-0b5a-4194-834c-2c0f0343341c" name="Stable" url="http://stable.wordpress.pv/wordpress">
         <fileTransfer port="0" accessType="LOCAL" />
