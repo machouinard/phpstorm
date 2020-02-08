@@ -229,6 +229,9 @@
       <webServer id="a8a71614-91dc-4fd0-9d14-94bb29a5d751" name="Pool - Laravel" url="https://pool-laravel.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="46c87ef1-cebf-467b-9f12-597161e884ce" name="Lambda Local Beta" url="https://phx.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
