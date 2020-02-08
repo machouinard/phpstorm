@@ -226,6 +226,9 @@
       <webServer id="cbbade3b-2a9d-4ea4-8932-37b5aad2dbda" name="JS Beta" url="https://js.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="a8a71614-91dc-4fd0-9d14-94bb29a5d751" name="Pool - Laravel" url="https://pool-laravel.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
