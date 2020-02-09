@@ -1,14 +1,6 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="b1902b59-492e-4922-a4e3-e1da0eb86fa7" name="DigitalOcean" url="https://pool.chouinard.me">
-        <fileTransfer host="ssh.chouinard.me" port="22" privateKey="$USER_HOME$/.ssh/do_rsa" rootFolder="/var/www/" accessType="SFTP" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
       <webServer id="c7a24cfe-87ae-4869-b953-140331a1b48a" name="Chouinard.me" url="http://chouinard.me">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
