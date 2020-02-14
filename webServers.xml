@@ -224,6 +224,9 @@
       <webServer id="46c87ef1-cebf-467b-9f12-597161e884ce" name="Lambda Local Beta" url="https://phx.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="e0b0e072-6a5a-46c5-8ba6-76d4acb704c1" name="URI Local Beta" url="https://uri.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
