@@ -227,6 +227,9 @@
       <webServer id="e0b0e072-6a5a-46c5-8ba6-76d4acb704c1" name="URI Local Beta" url="https://uri.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="6e5a058f-09ea-4e8d-8912-9d4b44eccd7c" name="Tony" url="https://tony.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
