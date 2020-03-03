@@ -230,6 +230,9 @@
       <webServer id="6e5a058f-09ea-4e8d-8912-9d4b44eccd7c" name="Tony" url="https://tony.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="f3ed6f43-cbe3-484d-a735-8ec89dfe730d" name="Shit" url="https://shit.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
