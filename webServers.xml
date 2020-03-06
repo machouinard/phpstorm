@@ -233,6 +233,9 @@
       <webServer id="f3ed6f43-cbe3-484d-a735-8ec89dfe730d" name="Shit" url="https://shit.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="45ca101c-c389-4168-aa62-c9535aa7a1a2" name="Forms" url="https://forms.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
