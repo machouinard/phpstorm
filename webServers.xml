@@ -239,6 +239,9 @@
       <webServer id="46d5e171-3689-48de-acb5-679768e14e91" name="Genesis" url="https://genesis.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="cf48549f-1f82-4789-977c-2872ed8fa1ec" name="Core" url="https://core.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
