@@ -236,6 +236,9 @@
       <webServer id="45ca101c-c389-4168-aa62-c9535aa7a1a2" name="Forms" url="https://forms.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="46d5e171-3689-48de-acb5-679768e14e91" name="Genesis" url="https://genesis.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
