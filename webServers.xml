@@ -242,6 +242,9 @@
       <webServer id="cf48549f-1f82-4789-977c-2872ed8fa1ec" name="Core" url="https://core.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="53a994d6-ebca-4455-a3a1-ecfa57204dce" name="Chouinard" url="https://chouinard.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
