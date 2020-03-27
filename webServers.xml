@@ -245,6 +245,9 @@
       <webServer id="53a994d6-ebca-4455-a3a1-ecfa57204dce" name="Chouinard" url="https://chouinard.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="6f6374b0-1c6a-4e39-96fe-62be2c99eb16" name="CAWeb" url="http://caweb.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
