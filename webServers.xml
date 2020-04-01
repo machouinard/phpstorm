@@ -248,6 +248,9 @@
       <webServer id="6f6374b0-1c6a-4e39-96fe-62be2c99eb16" name="CAWeb" url="http://caweb.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="c8dcfcd8-0383-4a48-b030-0f7817360393" name="JustAhead" url="https://just-ahead.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
