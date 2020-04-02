@@ -251,6 +251,9 @@
       <webServer id="c8dcfcd8-0383-4a48-b030-0f7817360393" name="JustAhead" url="https://just-ahead.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="40b66a7b-4389-4ccc-9590-3c8901c18253" name="Gutenberg" url="https://gb.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
