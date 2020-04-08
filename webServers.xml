@@ -254,6 +254,9 @@
       <webServer id="40b66a7b-4389-4ccc-9590-3c8901c18253" name="Gutenberg" url="https://gb.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="ba2813a9-25e9-4664-878e-fe97bd1397a2" name="Divi" url="https://divi.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
