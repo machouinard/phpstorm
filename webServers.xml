@@ -260,6 +260,9 @@
       <webServer id="3b16ff7c-d115-4e15-b3d7-12ed61cb9c3e" name="PHP Only" url="https://php.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="a2d11406-9d81-427a-b8e6-191f7a79a437" name="Solar" url="https://solar.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
