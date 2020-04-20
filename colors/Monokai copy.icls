@@ -6,7 +6,7 @@
   <colors>
     <option name="CARET_COLOR" value="f8f8f0" />
     <option name="CARET_ROW_COLOR" value="3e3d32" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="272822" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="" />
     <option name="GUTTER_BACKGROUND" value="272822" />
     <option name="INDENT_GUIDE" value="3b3a32" />
     <option name="LINE_NUMBERS_COLOR" value="f8f8f2" />
@@ -233,7 +233,7 @@
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="e4e4ff" />
+        <option name="FOREGROUND" value="3c3f41" />
       </value>
     </option>
     <option name="CONSOLE_USER_INPUT">
