@@ -263,6 +263,9 @@
       <webServer id="a2d11406-9d81-427a-b8e6-191f7a79a437" name="Solar" url="https://solar.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="45452493-c38c-45cf-adfb-6dcc4ee686c1" name="Astra" url="https://astra.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
