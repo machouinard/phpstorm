@@ -266,6 +266,9 @@
       <webServer id="45452493-c38c-45cf-adfb-6dcc4ee686c1" name="Astra" url="https://astra.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="8a3fe7e7-164d-46a8-90f1-a991a72416a9" name="Chocolate" url="https://choco.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
