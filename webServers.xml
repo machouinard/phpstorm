@@ -269,6 +269,9 @@
       <webServer id="8a3fe7e7-164d-46a8-90f1-a991a72416a9" name="Chocolate" url="https://choco.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="8864f932-9675-4c20-b143-f287105a2e3f" name="Defunct" url="http://defunct.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
