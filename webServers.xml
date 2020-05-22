@@ -272,6 +272,9 @@
       <webServer id="8864f932-9675-4c20-b143-f287105a2e3f" name="Defunct" url="http://defunct.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="89ffff8b-d23d-447c-a4dc-f5976ea0e239" name="Crystal" url="http://crystal.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
