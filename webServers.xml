@@ -275,6 +275,9 @@
       <webServer id="89ffff8b-d23d-447c-a4dc-f5976ea0e239" name="Crystal" url="http://crystal.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="03799915-63bd-4de3-b35a-838ffcec080b" name="Kuehl" url="https://kuehl.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
