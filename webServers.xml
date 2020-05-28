@@ -281,6 +281,9 @@
       <webServer id="77cbdc0b-3ccb-4277-9fea-a7da6de81f3c" name="RancherMike" url="https://rancher.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="feff9bbd-6295-49e6-ac82-8f06e2878b63" name="Henry" url="https://henry.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
