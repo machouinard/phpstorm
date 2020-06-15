@@ -284,6 +284,9 @@
       <webServer id="feff9bbd-6295-49e6-ac82-8f06e2878b63" name="Henry" url="https://henry.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="d1497aef-ab3d-412b-9545-943bf4d59cbc" name="LivingHealthy" url="https://living.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
