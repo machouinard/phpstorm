@@ -254,7 +254,7 @@
       <webServer id="40b66a7b-4389-4ccc-9590-3c8901c18253" name="Gutenberg" url="https://gb.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
-      <webServer id="ba2813a9-25e9-4664-878e-fe97bd1397a2" name="Divi" url="https://divi.local">
+      <webServer id="ba2813a9-25e9-4664-878e-fe97bd1397a2" name="Divi (1)" url="https://divi.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
       <webServer id="3b16ff7c-d115-4e15-b3d7-12ed61cb9c3e" name="PHP Only" url="https://php.local">
@@ -285,6 +285,9 @@
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
       <webServer id="d1497aef-ab3d-412b-9545-943bf4d59cbc" name="LivingHealthy" url="https://living.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="310b67da-470a-4798-8960-73e6dadf850b" name="Machouinar TOP" url="https://machouinar.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
     </option>
