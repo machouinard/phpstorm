@@ -1,0 +1,11 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="hotzot.biz" id="058a31c9-793a-4bf9-9473-3a06eca7b4eb" keyPath="$USER_HOME$/.ssh/hotshot_rsa" port="22" customName="Hotzot" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="sacitcentral.com" id="b036f92a-fc97-4534-96c6-389643ef0fd2" port="22" customName="SacIt" nameFormat="CUSTOM" username="e32741368697996" />
+      <sshConfig authType="PASSWORD" host="192.168.1.25" id="11c9ce35-3f65-4ea4-a59e-33afc316dc97" port="22" customName="Ubuntu" nameFormat="CUSTOM" username="mark" />
+      <sshConfig host="ftp.chouinard.dev" id="dddd082e-436f-42f7-b6e1-694009df0954" keyPath="$USER_HOME$/.ssh/do_rsa" port="22" customName="Chouinard.Dev" nameFormat="CUSTOM" username="ubuntu" />
+      <sshConfig authType="PASSWORD" host="192.168.1.118" id="9e8998b5-cdb6-428f-8b68-169775ad84bc" port="22" customName="Laravel - Ubuntu2" nameFormat="CUSTOM" username="mark" />
+    </configs>
+  </component>
+</application>
