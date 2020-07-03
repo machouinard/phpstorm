@@ -6,6 +6,8 @@
       <sshConfig authType="PASSWORD" host="192.168.1.25" id="11c9ce35-3f65-4ea4-a59e-33afc316dc97" port="22" customName="Ubuntu" nameFormat="CUSTOM" username="mark" />
       <sshConfig host="ftp.chouinard.dev" id="dddd082e-436f-42f7-b6e1-694009df0954" keyPath="$USER_HOME$/.ssh/do_rsa" port="22" customName="Chouinard.Dev" nameFormat="CUSTOM" username="ubuntu" />
       <sshConfig authType="PASSWORD" host="192.168.1.118" id="9e8998b5-cdb6-428f-8b68-169775ad84bc" port="22" customName="Laravel - Ubuntu2" nameFormat="CUSTOM" username="mark" />
+      <sshConfig host="hotzot.biz" id="0c8fe5ac-7f5c-469b-9e03-6b14c0584334" keyPath="$USER_HOME$/.ssh/hotshot_rsa" port="22" customName="Hotzot" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="192.168.1.118" id="ead0ba2e-7de7-4a25-b7bf-84c75bc54c35" port="22" customName="Laravel - Ubuntu2" nameFormat="CUSTOM" username="mark" />
     </configs>
   </component>
 </application>
