@@ -9,7 +9,9 @@
       <sshConfig host="hotzot.biz" id="0c8fe5ac-7f5c-469b-9e03-6b14c0584334" keyPath="$USER_HOME$/.ssh/hotshot_rsa" port="22" customName="Hotzot" nameFormat="CUSTOM" />
       <sshConfig host="hotzot.biz" id="5aba02b6-3f47-4a79-950d-a62aa8ab110a" keyPath="$USER_HOME$/.ssh/hotshot_rsa" port="22" customName="Hotzot" nameFormat="CUSTOM" />
       <sshConfig host="hotzot.biz" id="51689e15-c4d8-46bb-a077-ce3f68d40c45" keyPath="$USER_HOME$/.ssh/hotshot_rsa" port="22" customName="Hotzot" nameFormat="CUSTOM" />
-      <sshConfig authType="PASSWORD" host="192.168.1.118" id="bfeb11f7-1f1a-4121-bd47-6b8eee6628cb" port="22" customName="Laravel - Ubuntu2" nameFormat="CUSTOM" username="mark" />
+      <sshConfig host="hotzot.biz" id="afb67d36-9a00-44e8-b5a8-8f9282f0e583" keyPath="$USER_HOME$/.ssh/hotshot_rsa" port="22" customName="Hotzot" nameFormat="CUSTOM" />
+      <sshConfig host="hotzot.biz" id="ec009a8c-ded3-42e8-8735-2ecd21b6c1c4" keyPath="$USER_HOME$/.ssh/hotshot_rsa" port="22" customName="Hotzot" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="192.168.1.118" id="3929457b-0e69-4ef7-b6ed-6feae85a3d4d" port="22" customName="Laravel - Ubuntu2" nameFormat="CUSTOM" username="mark" />
     </configs>
   </component>
 </application>
