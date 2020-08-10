@@ -35,14 +35,14 @@
         <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="62acb0b9-78e4-4a73-809a-98d7e954ca51" name="Hotzot" url="http://hotzot.biz">
-        <fileTransfer rootFolder="/home/micpet61" accessType="SFTP" host="hotzot.biz" port="22" sshConfigId="b4e0bb44-f0d2-4a34-8583-060a878934cc" sshConfig="Hotzot" keyPair="true">
+        <fileTransfer rootFolder="/home/micpet61" accessType="SFTP" host="hotzot.biz" port="22" sshConfigId="058a31c9-793a-4bf9-9473-3a06eca7b4eb" sshConfig="Hotzot" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="a201cd60-3f47-4aac-926c-c29b7056be39" name="SacIt" url="http://sacit.dev">
-        <fileTransfer rootFolder="/home/e32741368697996/html" accessType="SFTP" host="sacitcentral.com" port="22" sshConfigId="3e31f128-be76-4f21-90b8-e4a62caca0ee" sshConfig="SacIt">
+        <fileTransfer rootFolder="/home/e32741368697996/html" accessType="SFTP" host="sacitcentral.com" port="22" sshConfigId="b036f92a-fc97-4534-96c6-389643ef0fd2" sshConfig="SacIt">
           <advancedOptions>
             <advancedOptions passiveMode="true" />
           </advancedOptions>
@@ -52,7 +52,7 @@
         <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="f8bd27f0-b50a-48c4-a477-92e66245fbca" name="Ubuntu" url="http://mark.home.mac">
-        <fileTransfer rootFolder="/var/www/mark.home.mac" accessType="SFTP" host="192.168.1.25" port="22" sshConfigId="6c61f33c-0699-4a1d-b174-c2983813c15b" sshConfig="Ubuntu" />
+        <fileTransfer rootFolder="/var/www/mark.home.mac" accessType="SFTP" host="192.168.1.25" port="22" sshConfigId="11c9ce35-3f65-4ea4-a59e-33afc316dc97" sshConfig="Ubuntu" />
       </webServer>
       <webServer id="c0be500b-d362-449e-9deb-1c05b7cdc34e" name="Ecma2016" url="http://ecma2016.dev.cc">
         <fileTransfer accessType="LOCAL" port="0" />
@@ -169,7 +169,7 @@
         <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="eff03464-792c-486b-9967-eb184b8315da" name="Chouinard.Dev" url="http://ftp.chouinard.dev">
-        <fileTransfer rootFolder="/var/www" accessType="SFTP" host="ftp.chouinard.dev" port="22" sshConfigId="ba82c5b9-035a-4bfd-84c7-3ecc1a7879fe" sshConfig="Chouinard.Dev" keyPair="true">
+        <fileTransfer rootFolder="/var/www" accessType="SFTP" host="ftp.chouinard.dev" port="22" sshConfigId="dddd082e-436f-42f7-b6e1-694009df0954" sshConfig="Chouinard.Dev" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
@@ -188,7 +188,7 @@
         <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="5bfcb132-4513-4cac-9100-fdbae10f1912" name="Laravel - Ubuntu2" url="http://192.168.1.118">
-        <fileTransfer rootFolder="/var/www/" accessType="SFTP" host="192.168.1.118" port="22" sshConfigId="5a96aa73-b2e2-415b-af9c-63e013fa4bc9" sshConfig="Laravel - Ubuntu2">
+        <fileTransfer rootFolder="/var/www/" accessType="SFTP" host="192.168.1.118" port="22" sshConfigId="9e8998b5-cdb6-428f-8b68-169775ad84bc" sshConfig="Laravel - Ubuntu2">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
@@ -285,6 +285,9 @@
         <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="634a0713-9e70-4b54-83da-84df35c61a60" name="TheIsraelBible" url="https://tib.local">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
+      <webServer id="aa43f410-c261-402d-8c2a-d245f13a0e64" name="Local wp.local" url="https://wp.local">
         <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
     </option>
