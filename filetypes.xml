@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern="wp_remote_get_response" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="_float_clearing.scss" type="PLAIN_TEXT" />
@@ -10,8 +9,8 @@
       <mapping pattern="README.md" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="default" type="PLAIN_TEXT" />
-      <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="2" type="PLAIN_TEXT" />
+      <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="3" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
