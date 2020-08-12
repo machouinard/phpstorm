@@ -290,6 +290,9 @@
       <webServer id="aa43f410-c261-402d-8c2a-d245f13a0e64" name="Local wp.local" url="https://wp.local">
         <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
+      <webServer id="eeeb8caf-5be9-4ccc-87bf-80ad1d1a85f0" name="Gutenberg Dev" url="http://gdev.local">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
     </option>
   </component>
 </application>
