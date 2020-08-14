@@ -293,6 +293,9 @@
       <webServer id="eeeb8caf-5be9-4ccc-87bf-80ad1d1a85f0" name="Gutenberg Dev" url="http://gdev.local">
         <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
+      <webServer id="1ddb9126-0d19-493e-9687-cafe81f80478" name="Chouinard.Dev" url="https://cdd.local">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
     </option>
   </component>
 </application>
