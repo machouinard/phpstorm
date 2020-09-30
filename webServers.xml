@@ -296,6 +296,9 @@
       <webServer id="1ddb9126-0d19-493e-9687-cafe81f80478" name="Chouinard.Dev" url="https://cdd.local">
         <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
+      <webServer id="f3f8ce10-2771-4c0e-bac0-e2896bfcbf91" name="Rancher Local" url="https://ranch.local">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
     </option>
   </component>
 </application>
