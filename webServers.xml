@@ -299,6 +299,9 @@
       <webServer id="f3f8ce10-2771-4c0e-bac0-e2896bfcbf91" name="Rancher Local" url="https://ranch.local">
         <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
+      <webServer id="7575cb4b-a674-4355-ae6d-2a8c5f3e40ac" name="Step-2 Local" url="https://step-2.local">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
     </option>
   </component>
 </application>
