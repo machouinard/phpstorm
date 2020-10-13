@@ -302,6 +302,9 @@
       <webServer id="7575cb4b-a674-4355-ae6d-2a8c5f3e40ac" name="Step-2 Local" url="https://step-2.local">
         <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
+      <webServer id="0b0bbc50-1711-4013-b8ec-3b8226dea144" name="Chocolate Redux" url="https://choc.local">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
     </option>
   </component>
 </application>
