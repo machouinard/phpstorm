@@ -4,10 +4,11 @@
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
   <option name="SOFT_MARGINS" value="80,100" />
   <JSCodeStyleSettings version="0">
-    <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="SPACE_BEFORE_GENERATOR_MULT" value="true" />
     <option name="ALIGN_VAR_STATEMENTS" value="2" />
+    <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACKETS" value="true" />
+    <option name="REFORMAT_C_STYLE_COMMENTS" value="true" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="FORCE_QUOTE_STYlE" value="true" />
     <option name="ENFORCE_TRAILING_COMMA" value="WhenMultiline" />
@@ -51,21 +52,28 @@
     <option name="RIGHT_MARGIN" value="80" />
     <option name="LINE_COMMENT_ADD_SPACE" value="false" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
-    <option name="ELSE_ON_NEW_LINE" value="true" />
-    <option name="CATCH_ON_NEW_LINE" value="true" />
     <option name="FINALLY_ON_NEW_LINE" value="true" />
+    <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
-    <option name="ALIGN_MULTILINE_FOR" value="false" />
+    <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
+    <option name="ALIGN_MULTILINE_TERNARY_OPERATION" value="true" />
+    <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
     <option name="SPACE_WITHIN_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_METHOD_CALL_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_METHOD_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_IF_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_WHILE_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_FOR_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_CATCH_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_SWITCH_PARENTHESES" value="true" />
     <option name="SPACE_WITHIN_BRACKETS" value="true" />
-    <option name="SPACE_BEFORE_METHOD_PARENTHESES" value="true" />
     <option name="CALL_PARAMETERS_WRAP" value="1" />
     <option name="METHOD_PARAMETERS_WRAP" value="1" />
     <option name="METHOD_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
+    <option name="METHOD_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
     <option name="METHOD_CALL_CHAIN_WRAP" value="5" />
     <option name="BINARY_OPERATION_WRAP" value="1" />
     <option name="TERNARY_OPERATION_WRAP" value="5" />
-    <option name="TERNARY_OPERATION_SIGNS_ON_NEXT_LINE" value="true" />
     <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
     <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
     <option name="ARRAY_INITIALIZER_WRAP" value="5" />
@@ -81,6 +89,7 @@
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
+      <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
