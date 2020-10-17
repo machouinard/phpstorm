@@ -305,6 +305,9 @@
       <webServer id="0b0bbc50-1711-4013-b8ec-3b8226dea144" name="Chocolate Redux" url="https://choc.local">
         <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
+      <webServer id="880178da-b072-4eff-93f2-d53eb479d3de" name="GhostInfluence" url="https://ghost.local">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
     </option>
   </component>
 </application>
