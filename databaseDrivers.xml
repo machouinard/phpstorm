@@ -124,6 +124,7 @@
       <property name="yearIsDateType" value="false" />
       <property name="socketFactory" value="org.newsclub.net.mysql.AFUNIXDatabaseSocketFactory" />
       <property name="junixsocket.file" value="" />
+      <property name="serverTimezone" value="UTC" />
       <library>
         <url>file://$USER_HOME$/Downloads/junixsocket-dist-2.3.2/lib/junixsocket-common-2.3.2.jar</url>
       </library>
