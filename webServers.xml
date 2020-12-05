@@ -308,6 +308,9 @@
       <webServer id="880178da-b072-4eff-93f2-d53eb479d3de" name="GhostInfluence" url="https://ghost.local">
         <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
+      <webServer id="91eaf7da-9e92-4687-8582-545ac14bc5eb" name="Provteam" url="https://provteam.local">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
     </option>
   </component>
 </application>
