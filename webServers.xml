@@ -311,6 +311,9 @@
       <webServer id="91eaf7da-9e92-4687-8582-545ac14bc5eb" name="Provteam" url="https://provteam.local">
         <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
+      <webServer id="4f4ab4a1-d1d5-4f62-a004-7dbc5e8011a8" name="MyBestHomeEver" url="https://mybesthomeever.local">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
     </option>
   </component>
 </application>
